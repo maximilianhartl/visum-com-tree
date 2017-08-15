@@ -1,3 +1,3 @@
 print('hello world')
 
-print('new comment from Git')
+print('I am a second print statement in PyCharm')
